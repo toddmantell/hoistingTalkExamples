@@ -4,7 +4,7 @@ const axios = require('axios');
 main(process.argv[2]);
 
 async function main(tickerSymbol) {
-console.log(await getStockQuote(tickerSymbol));
+	console.log(await getStockQuote(tickerSymbol));
 }
 
 async function getStockQuote(ticker) {

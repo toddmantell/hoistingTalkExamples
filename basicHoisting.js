@@ -9,4 +9,3 @@ stockQuote = {
 };
 
 console.log(JSON.stringify(stockQuote));
-//!! create github repo for this talk
