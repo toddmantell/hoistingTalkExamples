@@ -1,0 +1,15 @@
+{
+  "name": "hoisting-examples",
+  "version": "1.0.0",
+  "description": "examples for my hoisting lightning talk",
+  "main": "basicHoisting.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Todd Mantell",
+  "license": "ISC"
+}
