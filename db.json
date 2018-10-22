@@ -1,9 +1,9 @@
 {
 	"stocks": [
-		{"id": 1, "name": "Facebook", "ticker": "FB", "exchange": "NYSE", "lastPrice": 56.72, "volume": 20000000 },
-		{"id": 2, "name": "Amazon", "ticker": "AMZN", "exchange": "NYSE", "lastPrice": 56.72, "volume": 20000000 },
-		{"id": 3, "name": "Netflix", "ticker": "NFLX", "exchange": "NYSE", "lastPrice": 56.72, "volume": 20000000 },
-		{"id": 4, "name": "Google", "ticker": "GOOG", "exchange": "NYSE", "lastPrice": 56.72, "volume": 20000000 },
-		{"id": 5, "name": "Microsoft", "ticker": "MSFT", "exchange": "NYSE", "lastPrice": 56.72, "volume": 20000000 }
+		{"id": 1, "name": "Facebook", "ticker": "FB", "exchange": "NYSE", "lastPrice": 155.82, "volume": 20000000 },
+		{"id": 2, "name": "Amazon", "ticker": "AMZN", "exchange": "NYSE", "lastPrice": 1791.13, "volume": 20000000 },
+		{"id": 3, "name": "Netflix", "ticker": "NFLX", "exchange": "NYSE", "lastPrice": 330.41, "volume": 20000000 },
+		{"id": 4, "name": "Google", "ticker": "GOOG", "exchange": "NYSE", "lastPrice": 1106.55, "volume": 20000000 },
+		{"id": 5, "name": "Microsoft", "ticker": "MSFT", "exchange": "NYSE", "lastPrice": 109.97, "volume": 20000000 }
 	]
 }

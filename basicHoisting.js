@@ -2,7 +2,7 @@ stockQuote = {
 	name: 'Microsoft', 
 	ticker: 'MSFT',
 	exchange: 'NYSE',
-	lastPrice: 56.72,
+	lastPrice: 109.97,
 	volume: 20000000
 };
 
