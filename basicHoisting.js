@@ -1,5 +1,3 @@
-var stockQuote;
-
 stockQuote = {
 	name: 'Microsoft', 
 	ticker: 'MSFT',
@@ -8,4 +6,6 @@ stockQuote = {
 	volume: 20000000
 };
 
-console.log(JSON.stringify(stockQuote));
+console.log(stockQuote);
+
+var stockQuote;

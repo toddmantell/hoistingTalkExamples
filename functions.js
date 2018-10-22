@@ -1,6 +1,5 @@
 const axios = require('axios');
 
-// const getStockQuote = ticker => JSON.stringify({name: 'MSFT'});
 main(process.argv[2]);
 
 async function main(tickerSymbol) {
