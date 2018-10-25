@@ -1,3 +1,5 @@
+console.log(stockQuote);
+
 stockQuote = {
 	name: 'Microsoft', 
 	ticker: 'MSFT',
@@ -5,7 +7,5 @@ stockQuote = {
 	lastPrice: 109.97,
 	volume: 20000000
 };
-
-console.log(stockQuote);
 
 var stockQuote;

@@ -12,7 +12,9 @@
 
 // console.log({tickerSymbol});
 
-//2. let "hoisted" will throw a RefError because of the TDZ
+//2. let "hoisted" will throw a RefError because it's currently in the TDZ
+tickerSymbol = 'LKQ';
+
 console.log({tickerSymbol});
 
-let tickerSymbol = 'LKQ';
+let tickerSymbol;
