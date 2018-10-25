@@ -1,3 +1,4 @@
+'use strict';
 //1. const throws ReferenceError
 // console.log(tickerSymbol);
 
@@ -12,7 +13,7 @@
 
 // console.log({tickerSymbol});
 
-//2. let "hoisted" will throw a RefError because it's currently in the TDZ
+//3. let "hoisted" will throw a RefError because it's currently in the TDZ
 tickerSymbol = 'LKQ';
 
 console.log({tickerSymbol});

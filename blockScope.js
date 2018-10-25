@@ -1,3 +1,5 @@
+'use strict';
+
 getStockQuote();
 
 function getStockQuote() {
